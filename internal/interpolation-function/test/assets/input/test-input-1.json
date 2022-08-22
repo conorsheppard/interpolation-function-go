@@ -1,0 +1,4 @@
+{
+  "header": "Hey there, $customerFirstName",
+  "subheader": "We've got some goodies for $catName!"
+}
